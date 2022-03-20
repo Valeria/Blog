@@ -19,7 +19,7 @@
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "tomorrow" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://cubero.org # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : https://cubero.org # does not include hostname
+baseurl : # does not include hostname
 title   : Val
 description: > # this means to ignore newlines until "Language & timezone"
   Val
