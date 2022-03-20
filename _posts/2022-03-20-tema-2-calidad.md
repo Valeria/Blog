@@ -1,7 +1,5 @@
 ---
-layout: article
 title: "Tema 2: Gestión de la calidad"
-date: 2022-03-20 23:07:02 +0530
 mathjax: true
 ---
 
@@ -26,8 +24,6 @@ Según **UNE-EN ISO 9000:2015** :
 - Es lograda por personas y para personas
 - Es, **principalmente, responsabilidad gerencial**
 - Requiere una **nueva cultura organizativa**
-
-<div style="page-break-after: always;"></div>
 
 ### 1.3 Política de calidad
 
@@ -87,8 +83,6 @@ El aseguramiento de la calidad no garantiza la satisfacción del cliente, ya que
 1. Estándar a alcanzar.
 2. Medidas para evaluar la ejecución.
 3. Proceso de comparación de resultados.
-
-<div style="page-break-after: always;"></div>
 
 ### 2.4 Mejora de la calidad
 
@@ -160,7 +154,6 @@ __Sistemas de gestión de la calidad. Fundamentos y vocabulario__.
 
 ###### UNE-EN ISO 9001:2015
 __Sistemas de gestión de la calidad. Requisitos__.
-<div style="page-break-after: always;"></div>
 
 ###### UNE-EN ISO 9004:2018
 __Gestión de la calidad. Calidad de una organización. Orientación para lograr el éxito sostenido__.
@@ -188,7 +181,6 @@ Es una marca reconocida y valorada en toda la sociedad, y puede suponer una impo
 - **Desarrollado por los principales fabricantes** y basado en la norma ISO 9001 y normas nacionales.
 - **Unifica y sustituye** normas americanas, alemanas, francesas e italianas existentes.
 - __Identifica requisitos a satisfacer__ para cualquier producto del sector.
-<div style="page-break-after: always;"></div>
 
 #### Diferencias entre acreditación y certificación ISO 9001
 
