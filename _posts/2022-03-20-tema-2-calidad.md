@@ -3,6 +3,7 @@ title: "Tema 2: Gestión de la calidad"
 mathjax: true
 ---
 
+Resumen del Tema 2.
 <!--more-->
 
 ---
