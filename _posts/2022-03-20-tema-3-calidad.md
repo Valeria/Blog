@@ -105,7 +105,6 @@ La __gestión de los costes de la calidad__ en una organización comporta los si
 4. Toma de decisiones.
 
 Ayuda tener implantado un __sistema__ de gestión de los costes, que se implanta siguiendo múltiples etapas (formación, desarrollo, identificación de elementos, etc).
-<div style="page-break-after: always;"></div>
 
 ###### Ratios empleados:
 $$\frac{C_F}{C_{T}}$$
