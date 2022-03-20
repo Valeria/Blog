@@ -3,9 +3,9 @@ title: "Tema 2: Gestión de la calidad"
 mathjax: true
 ---
 
-# Tema 2: Gestión de la calidad
+<!--more-->
 
-
+---
 
 ## 1. Concepto y principios
 
