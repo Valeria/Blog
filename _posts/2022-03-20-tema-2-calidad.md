@@ -4,11 +4,6 @@ tags: Calidad
 mathjax: true
 ---
 
-Resumen del Tema 2.
-<!--more-->
-
----
-
 ## 1. Concepto y principios
 
 ### 1.1 Gestión de la calidad
