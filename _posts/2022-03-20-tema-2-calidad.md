@@ -1,5 +1,6 @@
 ---
 title: "Tema 2: Gestión de la calidad"
+tags: Calidad
 mathjax: true
 ---
 
