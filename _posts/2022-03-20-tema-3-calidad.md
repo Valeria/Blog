@@ -50,7 +50,6 @@ C--"2-5%" --- F[Prevención]
 
 C--"10-15%" --- G[Evaluación]
 ```
-<div style="page-break-after: always;"></div>
 
 ### 2.1 Costes de no calidad
 
@@ -73,7 +72,6 @@ Los que la empresa incurre para **controlar** que se cumplen las especificacione
 Aquellos costes por fallos que __no se pueden reflejar en la contabilidad__ o se hace por __menos importe del real__. (Mano de obra extra, reparación, aumento del riesgo de averías, absentismo laboral, etc).
 
 Su detección requiere de intuición.
-<div style="page-break-after: always;"></div>
 
 ![[Calidad/attachments/Pasted image 20220315193752.png]]
 
@@ -87,8 +85,7 @@ El modelo de Taguchi __relaciona directamente la economía con la variabilidad d
 $$L(x) = K(x - T)^2$$
 Siendo:
 
-$L(x) = función\; de\; pérdida$; $K = cte\; de\; proporcionalidad$; $x = valor\; de\; calidad\; medida$ $y$ $T = valor\; deseado$. 
-<div style="page-break-after: always;"></div>
+$L(x) = función\; de\; pérdida$; $K = cte\; de\; proporcionalidad$; $x = valor\; de\; calidad\; medida$ $y$ $T = valor\; deseado$.
 
 ###### Ejemplo:
 
